@@ -1,0 +1,702 @@
+[
+  {
+    "VIN Code": "1G6KD54Y02U800676",
+    "Make": "Buick",
+    "Model": "Regal",
+    "Year": 1985,
+    "Price": "$9026636.83"
+  },
+  {
+    "VIN Code": "WAUSFBFL7AA745311",
+    "Make": "Hummer",
+    "Model": "H1",
+    "Year": 2003,
+    "Price": "$2279430.11"
+  },
+  {
+    "VIN Code": "1GYS3CEF8BR249394",
+    "Make": "Bentley",
+    "Model": "Continental Super",
+    "Year": 2012,
+    "Price": "$3229804.54"
+  },
+  {
+    "VIN Code": "1N6AA0CC7CN191444",
+    "Make": "Ford",
+    "Model": "Probe",
+    "Year": 1989,
+    "Price": "$8001864.12"
+  },
+  {
+    "VIN Code": "SALAC2D42CA722372",
+    "Make": "Lexus",
+    "Model": "LS",
+    "Year": 1999,
+    "Price": "$3267769.21"
+  },
+  {
+    "VIN Code": "1FMJU1F58AE417333",
+    "Make": "Jeep",
+    "Model": "Grand Cherokee",
+    "Year": 1994,
+    "Price": "$4427932.57"
+  },
+  {
+    "VIN Code": "WAUSG78E86A349260",
+    "Make": "Volkswagen",
+    "Model": "Phaeton",
+    "Year": 2005,
+    "Price": "$7773531.45"
+  },
+  {
+    "VIN Code": "1FMCU0D76AK714111",
+    "Make": "BMW",
+    "Model": "745",
+    "Year": 2004,
+    "Price": "$2160239.68"
+  },
+  {
+    "VIN Code": "1N6AA0CC3CN205906",
+    "Make": "Audi",
+    "Model": "80",
+    "Year": 1991,
+    "Price": "$155523.62"
+  },
+  {
+    "VIN Code": "SCBGC3ZA7EC693631",
+    "Make": "Chevrolet",
+    "Model": "Sportvan G30",
+    "Year": 1993,
+    "Price": "$7627273.13"
+  },
+  {
+    "VIN Code": "1N6AF0LY6FN335650",
+    "Make": "Ford",
+    "Model": "F-Series Super Duty",
+    "Year": 2008,
+    "Price": "$9215574.28"
+  },
+  {
+    "VIN Code": "JH4CU2E69BC082644",
+    "Make": "Porsche",
+    "Model": "928",
+    "Year": 1995,
+    "Price": "$2505099.76"
+  },
+  {
+    "VIN Code": "WBALX3C51CC355082",
+    "Make": "Isuzu",
+    "Model": "Rodeo",
+    "Year": 2004,
+    "Price": "$6890206.37"
+  },
+  {
+    "VIN Code": "19XFB2F55EE175135",
+    "Make": "Jeep",
+    "Model": "Wrangler",
+    "Year": 2012,
+    "Price": "$851708.76"
+  },
+  {
+    "VIN Code": "WDBSK7AA0BF823478",
+    "Make": "Buick",
+    "Model": "Electra",
+    "Year": 1988,
+    "Price": "$8462038.89"
+  },
+  {
+    "VIN Code": "3FADP0L31BR476124",
+    "Make": "Mercury",
+    "Model": "Mountaineer",
+    "Year": 1998,
+    "Price": "$7409438.33"
+  },
+  {
+    "VIN Code": "4T1BF3EK1BU718604",
+    "Make": "Dodge",
+    "Model": "Ram Wagon B150",
+    "Year": 1992,
+    "Price": "$9119699.78"
+  },
+  {
+    "VIN Code": "5FRYD3H60EB739393",
+    "Make": "Lexus",
+    "Model": "IS",
+    "Year": 2011,
+    "Price": "$1530809.01"
+  },
+  {
+    "VIN Code": "5J8TB3H51FL417287",
+    "Make": "GMC",
+    "Model": "Rally Wagon 3500",
+    "Year": 1992,
+    "Price": "$4695659.32"
+  },
+  {
+    "VIN Code": "WAUFFAFL9DN348515",
+    "Make": "Mercedes-Benz",
+    "Model": "SLK-Class",
+    "Year": 2004,
+    "Price": "$496210.71"
+  },
+  {
+    "VIN Code": "1GD12ZCG8CF647349",
+    "Make": "Chevrolet",
+    "Model": "Corvette",
+    "Year": 1970,
+    "Price": "$8702756.80"
+  },
+  {
+    "VIN Code": "WAUHMBFC1EN221635",
+    "Make": "Volkswagen",
+    "Model": "Jetta",
+    "Year": 1986,
+    "Price": "$4494950.53"
+  },
+  {
+    "VIN Code": "3N1AB7AP1FL939580",
+    "Make": "Hyundai",
+    "Model": "Elantra",
+    "Year": 2013,
+    "Price": "$2175401.75"
+  },
+  {
+    "VIN Code": "1N6BF0KMXFN359064",
+    "Make": "Subaru",
+    "Model": "Forester",
+    "Year": 2006,
+    "Price": "$5958300.21"
+  },
+  {
+    "VIN Code": "WBAYM1C58DD268617",
+    "Make": "Honda",
+    "Model": "Accord",
+    "Year": 2008,
+    "Price": "$400022.11"
+  },
+  {
+    "VIN Code": "WBABN33472P930057",
+    "Make": "Lexus",
+    "Model": "LS Hybrid",
+    "Year": 2010,
+    "Price": "$2627858.39"
+  },
+  {
+    "VIN Code": "1C4AJWAG5FL711362",
+    "Make": "Nissan",
+    "Model": "Quest",
+    "Year": 2006,
+    "Price": "$4377981.52"
+  },
+  {
+    "VIN Code": "1G6AA1RX3F0643154",
+    "Make": "Mazda",
+    "Model": "MX-5",
+    "Year": 1993,
+    "Price": "$4609135.73"
+  },
+  {
+    "VIN Code": "3VW8S7ATXFM739071",
+    "Make": "Ford",
+    "Model": "Windstar",
+    "Year": 2003,
+    "Price": "$3559794.48"
+  },
+  {
+    "VIN Code": "2G4GU5EV1C9325198",
+    "Make": "Porsche",
+    "Model": "911",
+    "Year": 2001,
+    "Price": "$7586285.69"
+  },
+  {
+    "VIN Code": "WDDEJ7GB8CA672136",
+    "Make": "Chevrolet",
+    "Model": "S10 Blazer",
+    "Year": 1994,
+    "Price": "$8179704.40"
+  },
+  {
+    "VIN Code": "5UXZV8C59CL008906",
+    "Make": "Dodge",
+    "Model": "Ram Van 3500",
+    "Year": 2001,
+    "Price": "$8065959.29"
+  },
+  {
+    "VIN Code": "KMHCT4AE8FU315938",
+    "Make": "Porsche",
+    "Model": "911",
+    "Year": 2004,
+    "Price": "$6119208.43"
+  },
+  {
+    "VIN Code": "WAUDG94F56N495739",
+    "Make": "MINI",
+    "Model": "Cooper",
+    "Year": 2006,
+    "Price": "$3176032.65"
+  },
+  {
+    "VIN Code": "3D73Y3HL7BG348730",
+    "Make": "Jeep",
+    "Model": "Grand Cherokee",
+    "Year": 1997,
+    "Price": "$1706345.40"
+  },
+  {
+    "VIN Code": "WAUTFAFH5DN225728",
+    "Make": "Chrysler",
+    "Model": "Town & Country",
+    "Year": 1999,
+    "Price": "$1245193.85"
+  },
+  {
+    "VIN Code": "2C3CA7CW3AH126390",
+    "Make": "Chevrolet",
+    "Model": "Astro",
+    "Year": 2002,
+    "Price": "$9612301.56"
+  },
+  {
+    "VIN Code": "5UXZV4C56D0454314",
+    "Make": "Mazda",
+    "Model": "Mazdaspeed6",
+    "Year": 2007,
+    "Price": "$2162477.87"
+  },
+  {
+    "VIN Code": "WAUDFAFL2CA975988",
+    "Make": "BMW",
+    "Model": "530",
+    "Year": 2002,
+    "Price": "$2608888.60"
+  },
+  {
+    "VIN Code": "JH4CL95915C927691",
+    "Make": "Chevrolet",
+    "Model": "Silverado 2500",
+    "Year": 1999,
+    "Price": "$7395598.50"
+  },
+  {
+    "VIN Code": "2B3CJ5DT2BH233096",
+    "Make": "Mitsubishi",
+    "Model": "Lancer",
+    "Year": 2005,
+    "Price": "$1811761.15"
+  },
+  {
+    "VIN Code": "WAUEH64B91N907358",
+    "Make": "Volkswagen",
+    "Model": "Golf",
+    "Year": 1988,
+    "Price": "$1284234.09"
+  },
+  {
+    "VIN Code": "WAUKF98E28A961343",
+    "Make": "Geo",
+    "Model": "Tracker",
+    "Year": 1996,
+    "Price": "$8323439.92"
+  },
+  {
+    "VIN Code": "2B3CA7CW8AH086594",
+    "Make": "Lexus",
+    "Model": "ES",
+    "Year": 1997,
+    "Price": "$9418313.13"
+  },
+  {
+    "VIN Code": "WBA3C1C58DK176836",
+    "Make": "Acura",
+    "Model": "TL",
+    "Year": 2003,
+    "Price": "$8784505.63"
+  },
+  {
+    "VIN Code": "1G6DJ5EGXA0979516",
+    "Make": "Lincoln",
+    "Model": "MKZ",
+    "Year": 2007,
+    "Price": "$4589411.96"
+  },
+  {
+    "VIN Code": "1G6AF5S32D0087920",
+    "Make": "Mitsubishi",
+    "Model": "Lancer",
+    "Year": 2007,
+    "Price": "$3317153.95"
+  },
+  {
+    "VIN Code": "1G6AC1R30F0262529",
+    "Make": "Aston Martin",
+    "Model": "V8 Vantage",
+    "Year": 2007,
+    "Price": "$1425509.63"
+  },
+  {
+    "VIN Code": "WAUGFBFC1DN239363",
+    "Make": "Dodge",
+    "Model": "Stratus",
+    "Year": 1997,
+    "Price": "$8947191.43"
+  },
+  {
+    "VIN Code": "WBAUU3C56BA945639",
+    "Make": "Mitsubishi",
+    "Model": "Cordia",
+    "Year": 1985,
+    "Price": "$5650957.79"
+  },
+  {
+    "VIN Code": "WBAPH7G56BN200319",
+    "Make": "Chevrolet",
+    "Model": "Express",
+    "Year": 2006,
+    "Price": "$8960496.53"
+  },
+  {
+    "VIN Code": "JA32U2FU5DU452722",
+    "Make": "Cadillac",
+    "Model": "CTS-V",
+    "Year": 2010,
+    "Price": "$1124042.94"
+  },
+  {
+    "VIN Code": "5NPEB4AC6DH953109",
+    "Make": "GMC",
+    "Model": "Sierra 1500",
+    "Year": 2000,
+    "Price": "$9906235.94"
+  },
+  {
+    "VIN Code": "SALWR2VF1FA979936",
+    "Make": "GMC",
+    "Model": "Savana 3500",
+    "Year": 1996,
+    "Price": "$6285715.73"
+  },
+  {
+    "VIN Code": "WBALL5C57DE150203",
+    "Make": "Audi",
+    "Model": "Cabriolet",
+    "Year": 1994,
+    "Price": "$7816248.90"
+  },
+  {
+    "VIN Code": "WAUPL68E05A279926",
+    "Make": "Mazda",
+    "Model": "MX-5",
+    "Year": 2003,
+    "Price": "$9308086.19"
+  },
+  {
+    "VIN Code": "5LMJJ2JTXFE587785",
+    "Make": "Chevrolet",
+    "Model": "Cruze",
+    "Year": 2011,
+    "Price": "$9209462.78"
+  },
+  {
+    "VIN Code": "1G6AH5RX5E0435293",
+    "Make": "Nissan",
+    "Model": "Quest",
+    "Year": 1999,
+    "Price": "$6739051.40"
+  },
+  {
+    "VIN Code": "1GYS4EEJ1BR022156",
+    "Make": "BMW",
+    "Model": "525",
+    "Year": 2005,
+    "Price": "$8910458.84"
+  },
+  {
+    "VIN Code": "1G6DG8E37E0859224",
+    "Make": "Pontiac",
+    "Model": "Firefly",
+    "Year": 1991,
+    "Price": "$9094789.62"
+  },
+  {
+    "VIN Code": "WBANB33504B909761",
+    "Make": "Isuzu",
+    "Model": "VehiCROSS",
+    "Year": 2000,
+    "Price": "$2882863.45"
+  },
+  {
+    "VIN Code": "WBA3F9C54FK862896",
+    "Make": "Infiniti",
+    "Model": "FX",
+    "Year": 2011,
+    "Price": "$2528648.35"
+  },
+  {
+    "VIN Code": "WAUSF78K19A945372",
+    "Make": "Mercedes-Benz",
+    "Model": "CL-Class",
+    "Year": 2007,
+    "Price": "$9075812.40"
+  },
+  {
+    "VIN Code": "JN1BY1AP5FM987430",
+    "Make": "Kia",
+    "Model": "Sedona",
+    "Year": 2003,
+    "Price": "$2263528.30"
+  },
+  {
+    "VIN Code": "3FAHP0KC8AR822896",
+    "Make": "Ford",
+    "Model": "F-Series",
+    "Year": 1993,
+    "Price": "$3795265.23"
+  },
+  {
+    "VIN Code": "3VW1K7AJ6DM705805",
+    "Make": "Lincoln",
+    "Model": "MKZ",
+    "Year": 2009,
+    "Price": "$9353796.26"
+  },
+  {
+    "VIN Code": "2G4G15GV3B9632411",
+    "Make": "Lexus",
+    "Model": "SC",
+    "Year": 2008,
+    "Price": "$4771937.50"
+  },
+  {
+    "VIN Code": "WA1DGAFP2FA274787",
+    "Make": "Fairthorpe",
+    "Model": "Rockette",
+    "Year": 1960,
+    "Price": "$1357958.59"
+  },
+  {
+    "VIN Code": "WA1WMAFE5ED686425",
+    "Make": "Porsche",
+    "Model": "911",
+    "Year": 2011,
+    "Price": "$1225398.66"
+  },
+  {
+    "VIN Code": "5UMDU93407L736272",
+    "Make": "Volkswagen",
+    "Model": "Cabriolet",
+    "Year": 1989,
+    "Price": "$66632.56"
+  },
+  {
+    "VIN Code": "1D7RB1GK1AS258649",
+    "Make": "Mercedes-Benz",
+    "Model": "500SL",
+    "Year": 1993,
+    "Price": "$3154503.78"
+  },
+  {
+    "VIN Code": "1G4GA5ER0DF007545",
+    "Make": "Rolls-Royce",
+    "Model": "Phantom",
+    "Year": 2007,
+    "Price": "$1493054.35"
+  },
+  {
+    "VIN Code": "1C3CDZCB4EN868634",
+    "Make": "Mercedes-Benz",
+    "Model": "G-Class",
+    "Year": 2004,
+    "Price": "$9513945.69"
+  },
+  {
+    "VIN Code": "1FTEW1C89AF670931",
+    "Make": "Volkswagen",
+    "Model": "Jetta",
+    "Year": 1990,
+    "Price": "$6609207.50"
+  },
+  {
+    "VIN Code": "WAULC68E34A496402",
+    "Make": "Maybach",
+    "Model": "57",
+    "Year": 2008,
+    "Price": "$5034511.92"
+  },
+  {
+    "VIN Code": "YV1902AH3E1588348",
+    "Make": "Volvo",
+    "Model": "C70",
+    "Year": 2001,
+    "Price": "$5394600.05"
+  },
+  {
+    "VIN Code": "3VW1K7AJ7FM612908",
+    "Make": "Lexus",
+    "Model": "ES",
+    "Year": 1995,
+    "Price": "$4217948.29"
+  },
+  {
+    "VIN Code": "JTJBM7FX6A5503446",
+    "Make": "Pontiac",
+    "Model": "Sunbird",
+    "Year": 1990,
+    "Price": "$4978594.57"
+  },
+  {
+    "VIN Code": "WBS3C9C53FP106337",
+    "Make": "Chevrolet",
+    "Model": "Venture",
+    "Year": 2001,
+    "Price": "$2315619.07"
+  },
+  {
+    "VIN Code": "5UXZV8C51BL348582",
+    "Make": "Ford",
+    "Model": "Taurus",
+    "Year": 1993,
+    "Price": "$5540013.32"
+  },
+  {
+    "VIN Code": "WAUBFAFLXCA844637",
+    "Make": "Audi",
+    "Model": "R8",
+    "Year": 2008,
+    "Price": "$4386500.89"
+  },
+  {
+    "VIN Code": "1G6AT5S33E0331388",
+    "Make": "Ford",
+    "Model": "Ranger",
+    "Year": 1993,
+    "Price": "$646962.39"
+  },
+  {
+    "VIN Code": "JN8AZ1MUXDW685600",
+    "Make": "Bentley",
+    "Model": "Continental",
+    "Year": 2011,
+    "Price": "$3174937.55"
+  },
+  {
+    "VIN Code": "1YVHZ8BA8A5433447",
+    "Make": "Dodge",
+    "Model": "Ram Van 2500",
+    "Year": 1996,
+    "Price": "$6788952.66"
+  },
+  {
+    "VIN Code": "3GYFNDE36ES694550",
+    "Make": "Mazda",
+    "Model": "MX-5",
+    "Year": 1998,
+    "Price": "$2177023.48"
+  },
+  {
+    "VIN Code": "2C4JRGAG2DR435516",
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2009,
+    "Price": "$7824729.73"
+  },
+  {
+    "VIN Code": "JN8CS1MW5FM257317",
+    "Make": "Mazda",
+    "Model": "Miata MX-5",
+    "Year": 1997,
+    "Price": "$5279698.06"
+  },
+  {
+    "VIN Code": "WBA4A9C50FD271231",
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Year": 1964,
+    "Price": "$4828499.47"
+  },
+  {
+    "VIN Code": "1GYUKHEF1AR048489",
+    "Make": "Chevrolet",
+    "Model": "Beretta",
+    "Year": 1994,
+    "Price": "$2179817.59"
+  },
+  {
+    "VIN Code": "3C63D2EL5CG009395",
+    "Make": "Mercedes-Benz",
+    "Model": "CL-Class",
+    "Year": 2000,
+    "Price": "$7209242.71"
+  },
+  {
+    "VIN Code": "1C6RD7FP6CS757090",
+    "Make": "Chevrolet",
+    "Model": "Express 3500",
+    "Year": 2004,
+    "Price": "$3482369.56"
+  },
+  {
+    "VIN Code": "WAUDGAFL8CA342859",
+    "Make": "Ford",
+    "Model": "Taurus",
+    "Year": 1994,
+    "Price": "$1123838.44"
+  },
+  {
+    "VIN Code": "5J8TB3H5XFL733335",
+    "Make": "Saab",
+    "Model": "900",
+    "Year": 1992,
+    "Price": "$442685.22"
+  },
+  {
+    "VIN Code": "SCFAD01A86G037749",
+    "Make": "Nissan",
+    "Model": "Quest",
+    "Year": 2002,
+    "Price": "$6923893.57"
+  },
+  {
+    "VIN Code": "1C4SDJCT9EC581920",
+    "Make": "Lincoln",
+    "Model": "Zephyr",
+    "Year": 2006,
+    "Price": "$7876804.43"
+  },
+  {
+    "VIN Code": "3GYFNDEY8BS444816",
+    "Make": "GMC",
+    "Model": "Sierra 2500",
+    "Year": 2001,
+    "Price": "$3006385.01"
+  },
+  {
+    "VIN Code": "WUAGNAFG5CN254310",
+    "Make": "Toyota",
+    "Model": "Camry Hybrid",
+    "Year": 2010,
+    "Price": "$5658680.90"
+  },
+  {
+    "VIN Code": "3VW1K7AJ4DM248928",
+    "Make": "Acura",
+    "Model": "TL",
+    "Year": 2008,
+    "Price": "$504314.30"
+  },
+  {
+    "VIN Code": "1C3BCBEBXEN040509",
+    "Make": "Lincoln",
+    "Model": "LS",
+    "Year": 2006,
+    "Price": "$48954.93"
+  },
+  {
+    "VIN Code": "3G5DA03E75S784092",
+    "Make": "Lexus",
+    "Model": "LS",
+    "Year": 2005,
+    "Price": "$9867716.97"
+  }
+]
