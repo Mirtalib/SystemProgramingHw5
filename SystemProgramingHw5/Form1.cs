@@ -1,12 +1,14 @@
+using System;
 using System.Diagnostics;
 using System.Text.Json;
 using SystemProgramingHw5.Models;
+using SystemProgramingHw5.UserControls;
 
 namespace SystemProgramingHw5
 {
     public partial class Form1 : Form
     {
-        private CancellationTokenSource? CancellationToken = new();
+        private CancellationTokenSource CancellationToken = new();
 
 
         public Form1()
@@ -28,6 +30,7 @@ namespace SystemProgramingHw5
 
             if (radioBtnMulti.Checked == true)
             {
+
             }
             else
             {
@@ -43,7 +46,8 @@ namespace SystemProgramingHw5
         {
             panel3.Controls.Clear();
             var watch = Stopwatch.StartNew();
-            var directory = new DirectoryInfo(@"..\..\..\JsonFakeData");
+            var directory = new DirectoryInfo(@"..\..\..\CarData");
+
             foreach (var item in directory.GetFiles())
             {
 
@@ -52,20 +56,41 @@ namespace SystemProgramingHw5
                     var jsonText = File.ReadAllText(item.FullName);
                     var listCar = JsonSerializer.Deserialize<List<Car>>(jsonText);
 
-                    if (listCar != null)
+                    if (listCar is null)
+                        continue;
+
+                    foreach (var car in listCar)
                     {
                         if (CancellationToken.IsCancellationRequested)
                         {
-
-
+                            watch.Stop();
+                            lblTimeLoading.Text = watch.Elapsed.ToString();
+                            btnStart.Visible = true;
+                            btnCancel.Visible = false;
+                            break;
                         }
+
+
+                        // lblTimeLoading.Text = watch.Elapsed.ToString();
+                        UC_Car uC_Car = new(car);
+                        panel3.Controls.Add(uC_Car);
+                        Thread.Sleep(100);
                     }
-
-
-
                 }
-
             }
+
+            watch.Stop();
+            lblTimeLoading.Text = watch.Elapsed.ToString();
+            btnStart.Visible = true;
+            btnCancel.Visible = false;
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            CancellationToken.Cancel();
+            btnStart.Visible = true;
+            btnCancel.Visible = false;
+            lblTimeLoading.Text = "00:00:00";
         }
     }
 }

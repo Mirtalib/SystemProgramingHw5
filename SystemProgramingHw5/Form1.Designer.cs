@@ -32,11 +32,12 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.lblTimeLoading = new System.Windows.Forms.Label();
             this.btnCancel = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
             this.radioBtnMulti = new System.Windows.Forms.RadioButton();
             this.radioBtnSingle = new System.Windows.Forms.RadioButton();
-            this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -78,7 +79,8 @@
             // panel2
             // 
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel2.Controls.Add(this.label1);
+            this.panel2.Controls.Add(this.label2);
+            this.panel2.Controls.Add(this.lblTimeLoading);
             this.panel2.Controls.Add(this.btnCancel);
             this.panel2.Controls.Add(this.btnStart);
             this.panel2.Controls.Add(this.radioBtnMulti);
@@ -88,6 +90,27 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(794, 70);
             this.panel2.TabIndex = 1;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Maroon;
+            this.label2.Location = new System.Drawing.Point(275, 19);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(49, 20);
+            this.label2.TabIndex = 3;
+            this.label2.Tag = " ";
+            this.label2.Text = "Time :";
+            // 
+            // lblTimeLoading
+            // 
+            this.lblTimeLoading.ForeColor = System.Drawing.Color.Maroon;
+            this.lblTimeLoading.Location = new System.Drawing.Point(330, 17);
+            this.lblTimeLoading.Name = "lblTimeLoading";
+            this.lblTimeLoading.Size = new System.Drawing.Size(151, 24);
+            this.lblTimeLoading.TabIndex = 2;
+            this.lblTimeLoading.Text = "00:00:00:00";
+            this.lblTimeLoading.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnCancel
             // 
@@ -101,6 +124,7 @@
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
             this.btnCancel.Visible = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnStart
             // 
@@ -142,15 +166,6 @@
             this.radioBtnSingle.Text = "Single";
             this.radioBtnSingle.UseVisualStyleBackColor = true;
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(248, 19);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(50, 20);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "label1";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -178,6 +193,7 @@
         private Button btnCancel;
         private Button btnStart;
         private Panel panel3;
-        private Label label1;
+        private Label lblTimeLoading;
+        private Label label2;
     }
 }
