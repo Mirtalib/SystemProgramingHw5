@@ -1,6 +1,6 @@
-using System;
 using System.Diagnostics;
-using SystemProgramingHw5.UserControls;
+using System.Text.Json;
+using SystemProgramingHw5.Models;
 
 namespace SystemProgramingHw5
 {
@@ -46,7 +46,24 @@ namespace SystemProgramingHw5
             var directory = new DirectoryInfo(@"..\..\..\JsonFakeData");
             foreach (var item in directory.GetFiles())
             {
-               
+
+                if (item.Extension == ".json")
+                {
+                    var jsonText = File.ReadAllText(item.FullName);
+                    var listCar = JsonSerializer.Deserialize<List<Car>>(jsonText);
+
+                    if (listCar != null)
+                    {
+                        if (CancellationToken.IsCancellationRequested)
+                        {
+
+
+                        }
+                    }
+
+
+
+                }
 
             }
         }

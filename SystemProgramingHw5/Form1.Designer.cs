@@ -36,6 +36,7 @@
             this.btnStart = new System.Windows.Forms.Button();
             this.radioBtnMulti = new System.Windows.Forms.RadioButton();
             this.radioBtnSingle = new System.Windows.Forms.RadioButton();
+            this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -77,6 +78,7 @@
             // panel2
             // 
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.label1);
             this.panel2.Controls.Add(this.btnCancel);
             this.panel2.Controls.Add(this.btnStart);
             this.panel2.Controls.Add(this.radioBtnMulti);
@@ -140,6 +142,15 @@
             this.radioBtnSingle.Text = "Single";
             this.radioBtnSingle.UseVisualStyleBackColor = true;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(248, 19);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(50, 20);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "label1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -167,5 +178,6 @@
         private Button btnCancel;
         private Button btnStart;
         private Panel panel3;
+        private Label label1;
     }
 }

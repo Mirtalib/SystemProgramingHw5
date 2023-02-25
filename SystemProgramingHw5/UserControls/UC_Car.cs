@@ -19,7 +19,7 @@ namespace SystemProgramingHw5.UserControls
 
         private void UC_Car_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("MMMMMMMMMMMMM");
+            MessageBox.Show("MMMMMMMMMMMMMt");
         }
     }
 }
